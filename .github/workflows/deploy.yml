@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: sonu33yadav/inventory-backend:latest
+          tags: sonuyadav878/inventory-backend:latest
